@@ -6,6 +6,7 @@ ota mallia [täältä](https://github.com/HY-TKTL/TKT20007-Ohjelmistotuotantopro
 
 ### Ryhmien repot
 
+- [Amandus](https://github.com/Ohtu-project-Eficode/Amandus)
 - [Discord kurssibotti](https://github.com/Ohtuproju2021syksy/Discord-Bot-better)
 - [Kierratysavustin](https://github.com/ohtuprojekti-Kierratysavustin/Kierratysavustin)
 - [Mielentilatutkimus-thl](https://github.com/ohtuprojekti-mielentilatutkimus-thl/mielentilatutkimus-thl)
